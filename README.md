@@ -4,9 +4,9 @@ I am an aspiring Data Analyst with a background in data analytics, business inte
 
 ## About Me
 - Master of Commerce (Data Analytics for Business), The University of Sydney
+- Bachelor of Computing Science (Data Analytics and AI), The University of Technology Sydney 
 - Interested in Data Analytics, Business Intelligence, Data & AI, and Consulting
-- Passionate about data visualisation, predictive modelling, dashboard development, and solving real-world business problems
-
+- Passionate about data visualisation, predictive modelling, dashboard development, AI automation, and using data to solve real-world business problems.
 ## Technical Skills
 - **Programming & Querying:** Python, SQL, R
 - **Data Analysis:** Excel, Pandas, NumPy
