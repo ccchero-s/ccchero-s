@@ -18,8 +18,8 @@ I am an aspiring Data Analyst with a background in data analytics, business inte
 - **[Airline Reviews Dashboard](https://github.com/ccchero-s/airline-reviews-dashboard)**  
   Interactive dashboard built with Python, Dash, Plotly, and Pandas to analyse airline customer reviews, recommendation rates, and satisfaction trends.
 
-- **[Customer Churn Prediction](https://github.com/ccchero-s/customer-churn-prediction)**  
-  Machine learning project focused on predicting customer churn using classification models and customer behaviour data.
+- **[UNICEF Donor Response Prediction](https://github.com/ccchero-s/Donor-Response-Prediction-using-Machine-Learning)**  
+Machine learning model predicting donor responses to fundraising campaigns using behavioural and demographic data.
 
 - **[CPI Forecasting](https://github.com/ccchero-s/cpi-forecasting)**  
   Time series forecasting project using models such as SARIMA and LSTM to analyse and predict inflation trends.
