@@ -31,6 +31,6 @@ Machine learning model predicting donor responses to fundraising campaigns using
 
 ## Connect With Me
 - **Email:** yeechingchristine@gmail.com
-- **Resume:** [View My Resume](https://github.com/ccchero-s/resume.pdf)
+- **Resume:** [View My Resume](https://github.com/ccchero-s/ccchero-s/resume.pdf)
 
 Thanks for visiting my GitHub profile!
